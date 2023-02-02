@@ -21,5 +21,10 @@ Crie uma aplicação que calcule a área dos 3 quadriláteros notáveis: quadrad
 Extra: Calcule também a área do Losango.
 
 Obs.: Use SOBRECARGA
+
+## 3. Exercício de Retorno
+Proposta;
+
+Recrie a aplicação que calcula a área dos 3 quadriláteros notáveis, agora fazendo os métodos retornarem valores.
  
   
