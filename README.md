@@ -1,7 +1,9 @@
-/*
-Exercícios do curso de Métodos Java da DIO
+/**
+***Exercícios do curso de Métodos Java da DIO
 
+1. Exercícios de Criação de Métodos
 Proposta;
+
 Crie uma aplicação que resolva as seguintes situações:
  - Calcule as operações básicas: soma, subtração, multiplicação e divisão. Sempre dois valores devem ser passados.
  - A partir da hora do dia, informa a mensagem adequada: Bom dia, Boa tarde, Boa noite.
@@ -11,5 +13,14 @@ Observações:
  - Tente ao máximo criar métodos que trabalhem sozinhos ou em conjunto.
  - Pode chamar um método dentro do outro.
  - Pode passar como parâmetro, a chamada de um outro método.
+
+2. Exercício de Sobrecarga
+Proposta;
+
+Crie uma aplicação que calcule a área dos 3 quadriláteros notáveis: quadrado, retângula e trapézio.
+
+Extra: Calcule também a área do Losango.
+
+Obs.: Use SOBRECARGA
  /*
   
