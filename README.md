@@ -1,5 +1,4 @@
-/**
-***Exercícios do curso de Métodos Java da DIO
+### Exercícios do curso de Métodos Java da DIO
 
 1. Exercícios de Criação de Métodos
 Proposta;
@@ -22,5 +21,9 @@ Crie uma aplicação que calcule a área dos 3 quadriláteros notáveis: quadrad
 Extra: Calcule também a área do Losango.
 
 Obs.: Use SOBRECARGA
- /*
+
+3. Exercício Retorno
+Proposta;
+
+Recrie a aplicação que calcula a área dos 3 quadriláteros notáveis. Agora faça os métodos retornarem valores.
   
